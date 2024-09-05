@@ -1,0 +1,551 @@
+[15-Nov-2014 23:52:29 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:29 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:29 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:29 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:30 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:30 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:30 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:30 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:30 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:30 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:31 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:31 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:31 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:31 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:31 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:31 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:31 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:31 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:32 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:32 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:32 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:32 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:32 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:32 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:32 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:32 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:32 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:32 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:34 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:34 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:34 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:34 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:34 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:34 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:34 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:34 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:34 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:34 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:35 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:35 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:35 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:35 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:35 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:36 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:36 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:36 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:36 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:36 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:36 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:36 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:36 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:37 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:37 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:37 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:37 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:37 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:38 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:38 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:38 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:38 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:38 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:38 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:38 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:38 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:39 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:39 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:39 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:39 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:39 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:40 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:40 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:40 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:40 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:40 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:40 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:40 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:40 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:41 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:41 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:41 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:41 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:41 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:42 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:42 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:42 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:42 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:42 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:42 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:42 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:42 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:43 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:43 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:43 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:43 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:43 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:43 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:43 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:43 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:43 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:43 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:44 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:44 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:44 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:44 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:44 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:45 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:45 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:45 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:45 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:45 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:45 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:45 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:45 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:45 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:45 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:45 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:45 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:46 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:46 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:46 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:46 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:46 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:46 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:46 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:46 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:47 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:47 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:47 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:47 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:47 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:47 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:47 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:47 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:47 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:47 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:48 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:48 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:48 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:48 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:48 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:48 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:48 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:48 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:49 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:49 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:49 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:49 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:49 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:49 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:49 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:49 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:50 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:50 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:50 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:50 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:50 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:50 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:50 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:50 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:50 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:50 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:58 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:58 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:58 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:58 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:58 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:58 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:59 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:59 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:59 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:59 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:59 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:52:59 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:59 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:59 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:52:59 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:59 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:52:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:00 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:00 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:00 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:00 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:00 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:00 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:00 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:00 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:00 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:00 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:01 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:01 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:01 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:01 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:01 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:01 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:01 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:01 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:03 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:03 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:03 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:03 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:04 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:04 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:04 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:04 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:04 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:04 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:04 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:04 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:05 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:05 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:05 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:05 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:05 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:05 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:05 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:05 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:05 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:05 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:06 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:06 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:06 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:06 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:06 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:06 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:06 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:06 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:06 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:06 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:37 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:37 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:37 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:37 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:37 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:38 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:38 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:38 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:38 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:38 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:38 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:38 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:38 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:40 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:40 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:40 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:40 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:40 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:40 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:40 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:40 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:41 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:41 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:41 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:41 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:41 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:41 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:41 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:41 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:41 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:41 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:42 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:42 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:42 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:42 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:42 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:42 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:42 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:42 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:44 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:44 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:44 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:44 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:44 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:44 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:44 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:44 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:44 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:44 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:45 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:45 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:45 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:45 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:45 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:45 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:45 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:45 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:45 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:45 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:45 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:45 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:46 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:46 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:46 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:46 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[15-Nov-2014 23:53:46 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:46 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:46 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 2
+[15-Nov-2014 23:53:46 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 5
+[15-Nov-2014 23:53:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[19-Nov-2014 07:26:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[19-Nov-2014 07:31:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[19-Nov-2014 07:32:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[19-Nov-2014 07:35:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[19-Nov-2014 07:37:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[19-Nov-2014 07:39:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/index.php on line 6
+[19-Nov-2014 07:49:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 404
+[19-Nov-2014 07:50:24 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 404
+[19-Nov-2014 07:50:28 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 404
+[19-Nov-2014 07:51:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 404
+[19-Nov-2014 09:24:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 404
+[19-Nov-2014 09:27:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 404
+[19-Nov-2014 09:29:14 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 398
+[19-Nov-2014 09:29:14 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 398
+[19-Nov-2014 09:32:21 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 398
+[19-Nov-2014 09:32:25 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 398
+[19-Nov-2014 09:33:22 UTC] PHP Fatal error:  Call to undefined function fetch_assoc() in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 404
+[19-Nov-2014 09:34:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 404
+[19-Nov-2014 09:41:12 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, integer given in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 404
+[20-Nov-2014 09:30:00 UTC] PHP Parse error:  syntax error, unexpected ''.row.'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 392
+[20-Nov-2014 09:32:06 UTC] PHP Parse error:  syntax error, unexpected ''.table table-striped table-bo' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 392
+[20-Nov-2014 09:33:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 759
+[20-Nov-2014 09:34:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 860
+[20-Nov-2014 09:35:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 443
+[20-Nov-2014 09:44:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 443
+[26-Nov-2014 19:36:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 396
+[26-Nov-2014 19:47:01 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 407
+[27-Nov-2014 10:06:38 UTC] PHP Parse error:  syntax error, unexpected '")' (T_CONSTANT_ENCAPSED_STRING) in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 394
+[27-Nov-2014 10:08:49 UTC] PHP Parse error:  syntax error, unexpected '")' (T_CONSTANT_ENCAPSED_STRING) in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 394
+[27-Nov-2014 10:08:51 UTC] PHP Parse error:  syntax error, unexpected '")' (T_CONSTANT_ENCAPSED_STRING) in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 394
+[27-Nov-2014 10:09:33 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE) in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 391
+[27-Nov-2014 10:10:37 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE) in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 391
+[27-Nov-2014 10:17:15 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/Medicated-Items.php on line 390
+[27-Nov-2014 10:17:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/Medicated-Items.php on line 390
+[27-Nov-2014 10:17:15 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/Medicated-Items.php on line 394
+[27-Nov-2014 10:18:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/Medicated-Items.php on line 390
+[27-Nov-2014 10:18:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/Medicated-Items.php on line 390
+[27-Nov-2014 10:18:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/Medicated-Items.php on line 394
+[27-Nov-2014 10:18:54 UTC] PHP Warning:  mysql_query(): Access denied for user 'seven86c'@'localhost' (using password: NO) in /home/seven86c/public_html/dbms/Admin_panel/Medicated-Items.php on line 390
+[27-Nov-2014 10:18:54 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seven86c/public_html/dbms/Admin_panel/Medicated-Items.php on line 390
+[27-Nov-2014 10:18:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/seven86c/public_html/dbms/Admin_panel/Medicated-Items.php on line 394
+[27-Nov-2014 10:39:29 UTC] PHP Fatal error:  Class 'connections' not found in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 387
+[27-Nov-2014 10:42:39 UTC] PHP Fatal error:  Class 'connections' not found in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 387
+[27-Nov-2014 10:42:51 UTC] PHP Fatal error:  Class 'connections' not found in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 387
+[27-Nov-2014 10:43:21 UTC] PHP Fatal error:  Class 'connections' not found in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 387
+[27-Nov-2014 10:49:48 UTC] PHP Fatal error:  Class 'connections' not found in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 387
+[27-Nov-2014 10:49:59 UTC] PHP Fatal error:  Class 'connections' not found in /home/seven86c/public_html/dbms/Admin_panel/General-Items.php on line 387
+[27-Nov-2014 10:51:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/seven86c/public_html/dbms/Admin_panel/class.php on line 3
+[27-Nov-2014 10:51:42 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting function (T_FUNCTION) in /home/seven86c/public_html/dbms/Admin_panel/class.php on line 5
+[27-Nov-2014 10:53:12 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting function (T_FUNCTION) in /home/seven86c/public_html/dbms/Admin_panel/class.php on line 5
+[27-Nov-2014 10:54:24 UTC] PHP Fatal error:  Cannot redeclare class connections in /home/seven86c/public_html/dbms/Admin_panel/class.php on line 4
+[27-Nov-2014 10:55:40 UTC] PHP Fatal error:  Cannot redeclare class connections in /home/seven86c/public_html/dbms/Admin_panel/class.php on line 4
+[27-Nov-2014 10:56:13 UTC] PHP Fatal error:  Cannot redeclare class connections in /home/seven86c/public_html/dbms/Admin_panel/class.php on line 4
